@@ -6,5 +6,5 @@ save_non_project_files = False
 
 [main]
 version = 0.2.0
-recent_files = ['1. Fundamentos\\1_Hola_Mundo.py']
+recent_files = ['6. Bloque de Ejercicios\\15_Ejercicio.py', '6. Bloque de Ejercicios\\16_Ejercicio.py', '1. Fundamentos\\8_Operadores_Logicos.py']
 
