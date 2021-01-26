@@ -6,5 +6,5 @@ save_non_project_files = False
 
 [main]
 version = 0.2.0
-recent_files = ['3. Ciclos en Python\\1_Ciclo_While.py']
+recent_files = ['1. Fundamentos\\1_Hola_Mundo.py']
 

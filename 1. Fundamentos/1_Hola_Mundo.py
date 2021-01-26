@@ -1,7 +1,9 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Jan 24 21:33:59 2021
+# Hola este es mi primer script
 
-@author: egt_d
+"""
+Vamos a empezar con las sesiones de Python
+para realizar el proyecto de MISNUP UNCP
+
 """
 
+print("Hola mundo")
