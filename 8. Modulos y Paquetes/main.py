@@ -1,5 +1,5 @@
 import mi_modulo
-from mi_paquete.persona import Persona, Obrero
+from mi_paquete.persona import *
 
 print(mi_modulo.HolaMundo().hola_mundo())
 

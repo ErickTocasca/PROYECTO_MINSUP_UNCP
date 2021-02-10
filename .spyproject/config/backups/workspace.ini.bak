@@ -6,5 +6,5 @@ save_non_project_files = False
 
 [main]
 version = 0.2.0
-recent_files = ['11. Base de Datos\\main.py', '8. Modulos y Paquetes\\mi_modulo.py', '8. Modulos y Paquetes\\main.py', 'directorios.py']
+recent_files = ['12. Tkinter\\03_imagenes.py', '12. Tkinter\\04_posiciones.py', '12. Tkinter\\05_marcos.py', '12. Tkinter\\06_formularios.py']
 
