@@ -54,7 +54,7 @@ class Programa:
         formulario.grid(row=fila, column=columna, sticky=pegado)
         
     def boton(self, texto, comando, fila, columna):
-        boton = Button(self.ventana, text=texto, command= comando)
+        boton = Button(self.ventana, text= texto, command= comando)
         boton.grid(row=fila, column=columna)
         
     def salir(self):
@@ -66,10 +66,10 @@ class Programa:
     def alerta_info(self, texto):
         messagebox.showinfo("Informacion", texto)
         
-    def alerta_peligro(self):
+    def alerta_peligro(self, texto):
         messagebox.showwarning("Peligro", texto)
     
-    def alerta_error(self):
+    def alerta_error(self, texto):
         messagebox.showerror("Error", texto)
         
     def menu(self):

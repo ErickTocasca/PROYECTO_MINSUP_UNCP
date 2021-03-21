@@ -9,19 +9,12 @@ Proyecto:
     4.3 Vibración mano brazo
 
 """
-from tkinter import *
-import pathlib
-import os.path
-from tkinter import messagebox
-from usuario import acciones
-from programa import programa
 
-hz = acciones.Acciones()
+
+from usuario import todo
+
+
+
+hz = todo.Acciones()
 
 hz.accion()
-hz.registro()
-from databse import database
-database = database.Database()[0]
-cursor = database.Database()[1]
-
-cursor.execute("INSERT INTO inhalables VALUES")
