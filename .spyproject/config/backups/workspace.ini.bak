@@ -6,5 +6,5 @@ save_non_project_files = False
 
 [main]
 version = 0.2.0
-recent_files = ['Cristhian\\contactos.py', 'Cristhian\\sublogin.py', 'Cristhian\\subventana.py', 'Cristhian\\prueba.py']
+recent_files = ['C:\\Users\\egt_d\\.spyder-py3\\temp.py', 'Ejemplo\\main.py', 'Ejemplo\\usuario\\todo.py', 'Ejemplo\\pruebas.py', 'Ejemplo\\usuario\\acciones.py', 'Ejemplo\\usuario\\programa.py', 'Ejemplo\\usuario\\usuario.py', '12. Tkinter\\07_recoger_datos.py']
 
